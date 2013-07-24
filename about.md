@@ -1,24 +1,24 @@
 ---
-title: About
+title: Sobre
 layout: default
 permalink: /about/
-title: What&#8217;s this about?
+title: Sobre o que se trata?
 ---
 
-GitHub wants to help developers choose a license for their source code.
+GitHub quer ajudar programadores a escolher uma licença para seus códigos fonte.
 
-If you already know what you&#8217;re doing and have a license you prefer to use, that&#8217;s great! We&#8217;re not here to change your mind. But if you are bewildered by the large number of OSS license choices, maybe we can help.
+Se você ja sabe o que está fazendo e tem uma licença que prefere usar, isso é ótimo! Nós não estamos aqui para mudar sua cabeça. Mas se você está confuso com o grande número de Licenças OSS, talvez podemos ajudar.
 
-## Not comprehensive
+## Não detalhado
 
-This site is not a comprehensive directory of open source licenses. If you&#8217;re looking for a comprehensive list, we recommend the <a href="http://opensource.org/licenses/">Open Source Initiative</a> website.
+Este site não é um diretório detalhado de licenças de código aberto. Se você esta procurando por uma lista detalhada, recomendamos o site<a href="http://opensource.org/licenses/">Open Source Initiative</a>.
 
-We think there are too many options, which adds to the confusion. On the homepage, we break it down into just three licenses. The vast majority of projects will likely be fine choosing from one of these three. Just in case you have specific needs not covered by those three, we also highlight a [few other licenses to consider](/licenses/).
+Achamos que há muitas opções, o que aumenta a confusão. Na página inicial, dividimos tudo em só três licenças. A grande maioria dos projetos escolhe uma dessas três. Caso você tenha necessidades específicas que não são cobertas por estas três, destacamos [algumas outras licenças](/licenses/).
 
-## Help us improve it
+## Ajude-nos a melhorar
 
-Choosealicense.com isn&#8217;t just about open source, the site itself is open source as well. See something you think could be done better? Feel free to [fork the project](https://github.com/github/choosealicense.com) on GitHub and submit a pull request. We'd welcome your improvements.
+Choosealicense.com não é somente sobre código aberto, o site é feito em código aberto. Você vê algo que poderia ser melhor? Sinta-se livre para fazer um [fork do projeto](https://github.com/github/choosealicense.com) no GitHub e envie. Suas melhorias serão bem-vindas. 
 
-## Disclaimer
+## Aviso Legal
 
-We are not lawyers. Well most of us anyways. It is not the goal of this site to provide legal advice. The goal of this site is to provide a starting point to help you make an informed choice by providing information on popular open source licenses. If you have any questions regarding the right license for your code or any other legal issues relating to it, it&#8217;s always best to consult with a professional.
+Não somos advogados. A maioria de nós não é. Não é o objetivo deste site prestar aconselhamento jurídico. O objetivo deste site é dar um ponto de partida para lhe ajudar a fazer uma escolha informada, fornecendo informações sobre as mais populares licenças de código aberto. Se você tiver alguma dúvida sobre a licença correta para o seu código ou quaisquer outras questões jurídicas relacionadas a ele, é sempre melhor consultar um profissional.  
