@@ -3,9 +3,9 @@ layout: license
 title: Eclipse Public License v1.0
 permalink: /licenses/eclipse/
 
-description: Used by the Eclipse foundation for its software, this license includes reciprocal requirements in some cases.
+description: Utilizada pela fundação Eclipse para seu software, esta licença inclui exigências recíprocas em alguns casos.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: Crie um arquivo de texto (tipicamente nomeado de LICENSE ou LICENSE.txt) na raiz do seu código fonte e copie o texto da licença para o arquivo.
 
 source: http://www.eclipse.org/legal/epl-v10.html
 

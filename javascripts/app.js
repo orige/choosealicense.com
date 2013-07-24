@@ -32,9 +32,9 @@
     };
 
     Choosealicense.prototype.categories = {
-      required: "Required",
-      permitted: "Permitted",
-      forbidden: "Forbidden"
+      required: "Necessário",
+      permitted: "Permitido",
+      forbidden: "Proibido"
     };
 
     function Choosealicense() {

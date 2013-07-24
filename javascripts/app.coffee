@@ -28,9 +28,9 @@ class Choosealicense
 
   # Annotation categories as defined in `_config.yml`
   categories:
-    required: "Required"
-    permitted: "Permitted"
-    forbidden: "Forbidden"
+    required: "Necessário"
+    permitted: "Permitido"
+    forbidden: "Proibido"
 
   # fire on document.ready
   constructor: ->

@@ -1,4 +1,4 @@
-title: ChooseALicense.com
+title: ChooseaLicense.com.br - Licenças
 relative_permalinks: false
 markdown: redcarpet
 
@@ -6,60 +6,60 @@ rules:
 
   required:
     include-copyright:
-      description: Include a copy of the license and copyright notice with the code.
-      label:  License and copyright notice
+      description: Inclua uma cópia da licença e aviso de direitos autorais com o código.
+      label: Aviso de licença e direitos autorais
     document-changes: 
-      description: Indicate significant changes made to the code.
-      label: State Changes
+      description: Indicar alterações significativas feitas no código.
+      label: Alterações no Código
     disclose-source:
-      description: Source code must be made available when distributing the software. In the case of LGPL, the source for the library (and not the entire program) must be made available.
-      label: Disclose Source
+      description: O código fonte deve ser disponibilizado ao distribuir o software. No caso da LPL, a fonte para a biblioteca (e não todo o programa) deve ser disponibilizada.
+      label: Disponibilizar Fonte
     library-usage:
-      description: The library may be used within a non-open-source application. 
-      label: Library usage
+      description: A biblioteca pode ser usada dentro de um aplicativo não-open-source. 
+      label: Uso de biblioteca
     rename: 
-      description: You must change the name of the software if you modify it.
-      label: Rename
+      description: Você deve alterar o nome do software se modificá-lo.
+      label: Renomear
 
   permitted:
     commercial-use: 
-      description: This software and derivatives may be used for commercial purposes.
-      label: Commercial Use
+      description: Este software e seus derivados podem ser utilizados para propósitos comerciais.
+      label: Uso Comercial
     modifications: 
-      description: This software may be modified.
-      label: Modification
+      description: Este software pode ser modificado.
+      label: Modificação
     distribution: 
-      description: You may distribute this software.
-      label: Distribution
+      description: Você pode distribuir este software.
+      label: Distribuição
     sublicense: 
-      description: You may grant a sublicense to modify and distribute this software to third parties not included in the license.
-      label: Sublicensing
+      description: Você pode conceder uma sub-licença para modificar e distribuir este software a terceiros não incluídos na licença.
+      label: Sublicenciamento
     private-use: 
-      description: You may use and modify the software without distributing it.
-      label: Private Use
+      description: Você pode utilizar e modificar o software sem distribuí-lo.
+      label: Uso Privado
     patent-grant:
-      description: This license provides an express grant of patent rights from the contributor to the recipient.
-      label: Patent Grant
+      description: Esta licença fornece uma concessão expressa de direitos de patente do contribuinte para o destinatário.
+      label: Garantia de Patente
 
   forbidden:
     trademark-use:
-      description: While this may be implicitly true of all licenses, this license explicitly states that you may NOT use the names, logos, or trademarks of contributors.
-      label: Use Trademark
+      description: Embora isso possa estar implícito em todas as licenças, esta licença afirma explicitamente que você não pode usar os nomes, logotipos ou marcas dos contribuidores.
+      label: Uso de Marca Registrada
     no-liability: 
-      description: Software is provided without warranty and the software author/license owner cannot be held liable for damages.
-      label: Hold Liable
+      description: O software é fornecido sem garantias e o autor do software/dono da licença não pode ser responsabilizado por perdas e danos.
+      label: Responsabilidade Legal
     no-sublicense: 
-      description: You may not grant a sublicense to modify and distribute this software to third parties not included in the license.
-      label: Sublicensing
+      description: Você não pode conceder uma sub-licença para modificar e distribuir este software a terceiros não incluídos na licença.
+      label: Sublicenciamento
     modifications:
-      description: This software may not be modified.
-      label: Modification
+      description: Este software não pode ser modificado.
+      label: Modificação
     distribution:
-      description: You may not distribute this software.
-      label: Distribution
+      description: Você não pode distribuir este software.
+      label: Distribuição
     sublicense:
-      description: You may not grant a sublicense to modify and distribute this software to third parties not included in the license.
-      label: Sublicensing
+      description: Você não pode conceder uma sub-licença para modificar e distribuir este software a terceiros não incluídos na licença.
+      label: Sublicenciamento
 
 exclude:
   - CNAME

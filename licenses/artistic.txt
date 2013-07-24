@@ -5,9 +5,9 @@ permalink: /licenses/artistic/
 
 source: http://opensource.org/licenses/Artistic-2.0
 
-description: A license that&#8217;s heavily favored by the Perl community.
+description: Uma licença que é fortemente recomendada pela comunidade Perl.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: Crie um arquivo de texto (tipicamente nomeado de LICENSE ou LICENSE.txt) na raiz do seu código fonte e copie o texto da licença para o arquivo. Substitua [year] com o ano em curso e [fullname] com o nome (ou nomes) dos detentores de direitos autorais.
 
 required:
   - include-copyright
