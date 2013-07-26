@@ -11,7 +11,7 @@ Se você ja sabe o que está fazendo e tem uma licença que prefere usar, isso �
 
 ## Não detalhado
 
-Este site não é um diretório detalhado de licenças de código aberto. Se você esta procurando por uma lista detalhada, recomendamos o site<a href="http://opensource.org/licenses/">Open Source Initiative</a>.
+Este site não é um diretório detalhado de licenças de código aberto. Se você esta procurando por uma lista detalhada, recomendamos o site <a href="http://opensource.org/licenses/">Open Source Initiative</a>.
 
 Achamos que há muitas opções, o que aumenta a confusão. Na página inicial, dividimos tudo em só três licenças. A grande maioria dos projetos escolhe uma dessas três. Caso você tenha necessidades específicas que não são cobertas por estas três, destacamos [algumas outras licenças](/licenses/).
 
