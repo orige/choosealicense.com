@@ -51,15 +51,10 @@ As licenças estão no diretório `/licenses` como arquivos markdown (`.md`). Ca
 As licenças no choosealicense.com são regularmente importadas para o GitHub.com para serem utilizadas como uma lista de licenças disponíveis ao criar um repositório. Quando criamos um repositório, vamos substituir certas strings na licença por variáveis a partir do repositório. Isso pode ser utilizado para criar avisos de direitos autorais mais precisos. As variáveis disponíveis são:
 
 * `[fullname]` - O nome completo ou nome de usuário do dono do repositório
-
 * `[login]` - O nome do proprietário do repositório
-
 * `[email]` - O endereço de email principal do dono do repositório 
-
 * `[project]` - O nome do repositório
-
 * `[description]` - A descrição do repositório
-
 * `[year]` - O ano atual
 
 # Regras 
